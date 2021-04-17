@@ -1,1 +1,1 @@
-# galary
+# photo gallary
